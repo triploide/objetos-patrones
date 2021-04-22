@@ -1,0 +1,15 @@
+{
+    "name": "maxi/state",
+    "authors": [
+        {
+            "name": "Maxi Yañez",
+            "email": "maxiyanez84@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Maxi\\": "src/"
+        }
+    }
+}
